@@ -1,8 +1,8 @@
 <?php
 /**
- *
- *
- *
+ * @author haochuan
+ * @version 1.0
+ * 
  **/
 class demo
 {
